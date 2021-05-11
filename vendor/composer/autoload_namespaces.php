@@ -6,6 +6,4 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Illuminate\\Support' => array($vendorDir . '/illuminate/support'),
-    'F2m2\\Apidocs' => array($baseDir . '/src'),
 );

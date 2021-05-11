@@ -9,7 +9,11 @@
     ],
     "homepage": "https://github.com/nhiepphong/apidocs",
     "license": "MIT",
-    "require": {},
+    "require": {
+        "illuminate/support": "^8.41",
+        "php": "^7.3",
+        "phpdocumentor/reflection-docblock": "^5.2"
+    },
     "autoload": {
         "psr-4": {
             "Codev\\Apidocs\\": "src/"
