@@ -1,0 +1,26 @@
+{
+    "name": "codev/apidocs",
+    "description": "Laravel API Documentation Generator",
+    "authors": [
+        {
+            "name": "CoDev Service Co.,Ltd",
+            "email": "hello@codev.vn"
+        }
+    ],
+    "homepage": "https://github.com/nhiepphong/apidocs",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Codev\\Apidocs\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codev\\Apidocs\\ApidocsServiceProvider"
+            ]
+        }
+    }
+}
