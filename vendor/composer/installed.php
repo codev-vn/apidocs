@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '34b8c31059c68e280dbc8bfe111c7d0972c69950',
+    'reference' => 'b085f2fff9dd51d93ac8cfb25723080b5dd541fe',
     'name' => 'codev/apidocs',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '34b8c31059c68e280dbc8bfe111c7d0972c69950',
+      'reference' => 'b085f2fff9dd51d93ac8cfb25723080b5dd541fe',
     ),
     'doctrine/inflector' => 
     array (

@@ -19,7 +19,8 @@
             "Codev\\Apidocs\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "extra": {
         "laravel": {
             "providers": [
