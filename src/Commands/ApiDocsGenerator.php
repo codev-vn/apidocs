@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Config;
 use Illuminate\Routing\Route;
 use Illuminate\Routing\Router;
 use Illuminate\Http\Request;
-use Mpociot\Reflection\DocBlock;
+use Codev\Apidocs\Reflection\DocBlock;
 use ReflectionClass;
 
 class ApiDocsGenerator {

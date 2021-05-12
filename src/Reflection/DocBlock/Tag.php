@@ -10,9 +10,9 @@
  * @link      http://phpdoc.org
  */
 
-namespace Mpociot\Reflection\DocBlock;
+namespace Codev\Apidocs\Reflection\DocBlock;
 
-use Mpociot\Reflection\DocBlock;
+use Codev\Apidocs\Reflection\DocBlock;
 
 /**
  * Parses a tag definition for a DocBlock.
@@ -59,43 +59,43 @@ class Tag implements \Reflector
      */
     private static $tagHandlerMappings = array(
         'author'
-            => '\Mpociot\Reflection\DocBlock\Tag\AuthorTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\AuthorTag',
         'covers'
-            => '\Mpociot\Reflection\DocBlock\Tag\CoversTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\CoversTag',
         'deprecated'
-            => '\Mpociot\Reflection\DocBlock\Tag\DeprecatedTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\DeprecatedTag',
         'example'
-            => '\Mpociot\Reflection\DocBlock\Tag\ExampleTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\ExampleTag',
         'link'
-            => '\Mpociot\Reflection\DocBlock\Tag\LinkTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\LinkTag',
         'method'
-            => '\Mpociot\Reflection\DocBlock\Tag\MethodTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\MethodTag',
         'param'
-            => '\Mpociot\Reflection\DocBlock\Tag\ParamTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\ParamTag',
         'property-read'
-            => '\Mpociot\Reflection\DocBlock\Tag\PropertyReadTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\PropertyReadTag',
         'property'
-            => '\Mpociot\Reflection\DocBlock\Tag\PropertyTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\PropertyTag',
         'property-write'
-            => '\Mpociot\Reflection\DocBlock\Tag\PropertyWriteTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\PropertyWriteTag',
         'return'
-            => '\Mpociot\Reflection\DocBlock\Tag\ReturnTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\ReturnTag',
         'see'
-            => '\Mpociot\Reflection\DocBlock\Tag\SeeTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\SeeTag',
         'since'
-            => '\Mpociot\Reflection\DocBlock\Tag\SinceTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\SinceTag',
         'source'
-            => '\Mpociot\Reflection\DocBlock\Tag\SourceTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\SourceTag',
         'throw'
-            => '\Mpociot\Reflection\DocBlock\Tag\ThrowsTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\ThrowsTag',
         'throws'
-            => '\Mpociot\Reflection\DocBlock\Tag\ThrowsTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\ThrowsTag',
         'uses'
-            => '\Mpociot\Reflection\DocBlock\Tag\UsesTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\UsesTag',
         'var'
-            => '\Mpociot\Reflection\DocBlock\Tag\VarTag',
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\VarTag',
         'version'
-            => '\Mpociot\Reflection\DocBlock\Tag\VersionTag'
+            => '\Codev\Apidocs\Reflection\DocBlock\Tag\VersionTag'
     );
 
     /**

@@ -18,8 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Codev\\Apidocs\\": "src/",
-            "Mpociot\\Reflection\\": "srcMpociot/"
+            "Codev\\Apidocs\\": "src/"
         }
     },
     "minimum-stability": "dev",

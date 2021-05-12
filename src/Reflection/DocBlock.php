@@ -10,11 +10,11 @@
  * @link      http://phpdoc.org
  */
 
-namespace Mpociot\Reflection;
+namespace Codev\Apidocs\Reflection;
 
-use Mpociot\Reflection\DocBlock\Tag;
-use Mpociot\Reflection\DocBlock\Context;
-use Mpociot\Reflection\DocBlock\Location;
+use Codev\Apidocs\Reflection\DocBlock\Tag;
+use Codev\Apidocs\Reflection\DocBlock\Context;
+use Codev\Apidocs\Reflection\DocBlock\Location;
 
 /**
  * Parses the DocBlock for any structure.

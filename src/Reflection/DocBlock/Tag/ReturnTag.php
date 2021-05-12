@@ -10,10 +10,10 @@
  * @link      http://phpdoc.org
  */
 
-namespace Mpociot\Reflection\DocBlock\Tag;
+namespace Codev\Apidocs\Reflection\DocBlock\Tag;
 
-use Mpociot\Reflection\DocBlock\Tag;
-use Mpociot\Reflection\DocBlock\Type\Collection;
+use Codev\Apidocs\Reflection\DocBlock\Tag;
+use Codev\Apidocs\Reflection\DocBlock\Type\Collection;
 
 /**
  * Reflection class for a @return tag in a Docblock.

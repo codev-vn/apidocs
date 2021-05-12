@@ -10,15 +10,15 @@
  * @link      http://phpdoc.org
  */
 
-namespace Mpociot\Reflection\DocBlock\Tag;
+namespace Codev\Apidocs\Reflection\DocBlock\Tag;
 
 /**
- * Reflection class for a @property tag in a Docblock.
+ * Reflection class for a @throws tag in a Docblock.
  *
  * @author  Mike van Riel <mike.vanriel@naenius.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT
  * @link    http://phpdoc.org
  */
-class PropertyTag extends ParamTag
+class ThrowsTag extends ReturnTag
 {
 }

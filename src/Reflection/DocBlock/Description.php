@@ -10,9 +10,9 @@
  * @link      http://phpdoc.org
  */
 
-namespace Mpociot\Reflection\DocBlock;
+namespace Codev\Apidocs\Reflection\DocBlock;
 
-use Mpociot\Reflection\DocBlock;
+use Codev\Apidocs\Reflection\DocBlock;
 
 /**
  * Parses a Description of a DocBlock or tag.

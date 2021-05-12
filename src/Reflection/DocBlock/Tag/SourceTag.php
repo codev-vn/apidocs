@@ -10,9 +10,9 @@
  * @link      http://phpdoc.org
  */
 
-namespace Mpociot\Reflection\DocBlock\Tag;
+namespace Codev\Apidocs\Reflection\DocBlock\Tag;
 
-use Mpociot\Reflection\DocBlock\Tag;
+use Codev\Apidocs\Reflection\DocBlock\Tag;
 
 /**
  * Reflection class for a @source tag in a Docblock.

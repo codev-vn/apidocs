@@ -10,9 +10,9 @@
  * @link      http://phpdoc.org
  */
 
-namespace Mpociot\Reflection\DocBlock\Type;
+namespace Codev\Apidocs\Reflection\DocBlock\Type;
 
-use Mpociot\Reflection\DocBlock\Context;
+use Codev\Apidocs\Reflection\DocBlock\Context;
 
 /**
  * Collection

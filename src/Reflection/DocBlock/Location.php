@@ -10,7 +10,7 @@
  * @link      http://phpdoc.org
  */
 
-namespace Mpociot\Reflection\DocBlock;
+namespace Codev\Apidocs\Reflection\DocBlock;
 
 /**
  * The location a DocBlock occurs within a file.
