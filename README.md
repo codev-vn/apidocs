@@ -10,7 +10,7 @@ This Laravel package provides an API Documentation generator based upon your Rou
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `codev-vn/apidocs`.
 
     "require-dev": {
-        "codev-vn/apidocs": "dev-master"
+        "codev/apidocs": "dev-master"
     }
 
 Next, update Composer from the Terminal:

@@ -1,4 +1,6 @@
-<li>
-    <a href="#{column-title}">{column-title}</a>
-    {nav-items}
-</li>
+
+
+                            <li>
+                                <a href="#{column-title}">{column-title}</a>
+                                {nav-items}
+                            </li>

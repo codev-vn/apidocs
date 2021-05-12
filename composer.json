@@ -10,9 +10,9 @@
     "homepage": "https://github.com/nhiepphong/apidocs",
     "license": "MIT",
     "require": {
-        "illuminate/support": "^8.41",
+        "illuminate/support": "^7.30.4",
         "php": "^7.3",
-        "phpdocumentor/reflection-docblock": "^5.2"
+        "mpociot/laravel-apidoc-generator": "^4.8"
     },
     "autoload": {
         "psr-4": {

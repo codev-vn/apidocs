@@ -567,12 +567,14 @@ class ApiDocsGenerator {
      */
     protected function filterRoute(array $route)
     {
-        if ($route['prefix']) {
-            $prefix = $route['prefix'];
-        }else{
-            $prefix = '';
+        if($route['prefix'] != NULL)
+        {
+            if (! str_contains($route['prefix'], $this->prefix)) {
+                return null;
+            }
         }
-        if (! str_contains($prefix, $this->prefix)) {
+        else
+        {
             return null;
         }
 
