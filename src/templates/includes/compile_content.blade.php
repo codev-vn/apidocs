@@ -1,4 +1,2 @@
-                        
-
-                        {section-header}
-                        {section-details}
+{section-header}
+{section-details}

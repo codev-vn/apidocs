@@ -36,6 +36,9 @@
                         {body-content}
 
                     </div>
+                    <div class="col-12">
+                        <p style="margin-left: 10px;"><a href="https://github.com/codev-vn/apidocs" target="_blank">CoDev Service Co., Ltd</a> developed on the foundation of <a href="https://github.com/f2m2/apidocs" target="_blank">F2M2</a></p>
+                    </div>
                 </div>
             </div>
         </div>
