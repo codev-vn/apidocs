@@ -7,12 +7,11 @@
             "email": "hello@codev.vn"
         }
     ],
-    "homepage": "https://github.com/nhiepphong/apidocs",
+    "homepage": "https://github.com/codev-vn/apidocs",
     "license": "MIT",
     "require": {
-        "illuminate/support": "^7.30.4",
-        "php": "^7.3",
-        "mpociot/laravel-apidoc-generator": "^4.8"
+        "illuminate/support": "^8.41",
+        "php": "^7.3"
     },
     "autoload": {
         "psr-4": {
