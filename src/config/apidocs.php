@@ -30,7 +30,7 @@ return [
     */
 
     'assets_path' => 'vendor/codev/apidocs/src/templates/assets/',
-    'logo_path' => '/assets/docs/{prefix}/img/code_f2m2_logo.svg',
+    'logo_path' => '/assets/docs/{prefix}/img/codev_f2m2_logo.svg',
 
     /*
     |--------------------------------------------------------------------------
