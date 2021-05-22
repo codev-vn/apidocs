@@ -2,6 +2,7 @@
 # Laravel API Docs Generator
 
 This Laravel package provides an API Documentation generator based upon your Routes and Controller Method DocBlock comments.
+Packagist: https://packagist.org/packages/codev/apidocs
 
 ## Installation
 

@@ -13,7 +13,7 @@
                 <div class="col-3" id="sidebar">
                     <div class="column-content">
                         <div class="search-header">
-                            <img src="{logo-path}" class="logo" alt="Logo" />
+                            <img src="{logo-path}" class="logo" alt="Logo CoDev" />
                             <input id="search" type="text" placeholder="Search">
                         </div>
                         <ul id="navigation">
