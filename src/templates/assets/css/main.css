@@ -90,7 +90,7 @@ h4 {
     font-size: 1.3em;
 }
 a {
-    color: #008080;
+    color: #d22027;
     text-decoration: none;
 }
 a:hover {
@@ -213,7 +213,7 @@ ul#navigation li ul li ul li a {
 ul#navigation li > a:hover,
 ul#navigation li.active > a {
     color: #D9D9D9;
-    background-color: #454545;
+    background-color: #d22027;
 }
 ul#navigation li.active {
     position: relative;
